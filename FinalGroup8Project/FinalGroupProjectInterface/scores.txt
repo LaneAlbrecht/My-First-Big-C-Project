@@ -1,0 +1,5 @@
+Loay: 1
+FinalTestTimm: 12
+PongMaster: 25
+PongChamp: 50
+Winner: 100

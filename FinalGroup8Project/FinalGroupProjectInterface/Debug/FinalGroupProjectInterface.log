@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (FinalGroupProjectInterface.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  InterfaceSource.cpp
+c:\users\student\documents\visual studio 2015\projects\finalgroupproject\finalgroupprojectinterface\interfacesource.cpp(162): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\student\documents\visual studio 2015\projects\finalgroupproject\finalgroupprojectinterface\interfacesource.cpp(232): warning C4018: '<': signed/unsigned mismatch
+c:\users\student\documents\visual studio 2015\projects\finalgroupproject\finalgroupprojectinterface\interfacesource.cpp(442): warning C4551: function call missing argument list
+c:\users\student\documents\visual studio 2015\projects\finalgroupproject\finalgroupprojectinterface\interfacesource.cpp(447): warning C4551: function call missing argument list
+c:\users\student\documents\visual studio 2015\projects\finalgroupproject\finalgroupprojectinterface\interfacesource.cpp(508): warning C4551: function call missing argument list
+c:\users\student\documents\visual studio 2015\projects\finalgroupproject\finalgroupprojectinterface\interfacesource.cpp(513): warning C4551: function call missing argument list
+  FinalGroupProjectInterface.vcxproj -> C:\Users\student\Documents\Visual Studio 2015\Projects\FinalGroupProject\Debug\FinalGroupProject.exe
+  FinalGroupProjectInterface.vcxproj -> C:\Users\student\Documents\Visual Studio 2015\Projects\FinalGroupProject\Debug\FinalGroupProject.pdb (Full PDB)
